@@ -1,3 +1,5 @@
+###this is for educational purpose not for business 
+
 import requests
 import numpy as np
 from colorama import Fore, Style
